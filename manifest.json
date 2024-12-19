@@ -1,6 +1,6 @@
 {
   "name": "Den Movie Search",
-  "short_name": "Working",
+  "short_name": "Movie Search",
   "start_url": "/index.html",
   "display": "standalone"
 }
